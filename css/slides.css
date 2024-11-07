@@ -1496,6 +1496,13 @@ p.uppercase, .p.uppercase,
   margin-right: auto !important;
 }
 
+.toCenterTop {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  margin-top: -20px !important;
+  margin-bottom: auto !important;
+}
+
 .popupTrigger,
 .dropdownTrigger,
 .sidebarTrigger {
