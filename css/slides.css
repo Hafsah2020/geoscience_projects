@@ -12855,5 +12855,24 @@ span.next-arrow svg {
   display: table;
 }
 
+/* Style for the copyright text */
+.copyright-text {
+  font-size: 8px; /* Adjust font size as needed */
+  color: #555; /* Adjust color */
+  text-align: center; /* Center-align the text */
+  margin-top: 10px; /* Add space above, if desired */
+  font-weight: 50; /* Adjust font weight */
+}
+
+/* Optional: Style the link inside the copyright text */
+.copyright-text a {
+  color: #007acc; /* Link color */
+  text-decoration: none;
+}
+
+.copyright-text a:hover {
+  text-decoration: underline;
+}
+
 
 /*# sourceMappingURL=slides.css.map */
